@@ -8,6 +8,6 @@ import { posts } from './posts';
 })
 export class AppComponent {
   title = 'intro';
-  nombre = 'Hiromi Acosta Quevedo';
+  nombre = 'Cristhian David Suarez';
   articulos = posts;
 }
